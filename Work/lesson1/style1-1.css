@@ -1,0 +1,21 @@
+p{
+    color: coral;
+    font-size: 32px;
+    width: 30%;
+    height: 50px;
+    background-color: lightblue;
+    display: inline-block;
+}
+h2, h3{ color: cornflowerblue;
+}
+sub,sup{
+    color: darkgreen;
+}
+span{
+    font-size: 40px;
+    color: blue;
+    width: 30%;
+    height: 50px;
+    background-color: lightblue;
+    display: inline-block;
+}
