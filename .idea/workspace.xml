@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Пройшов лекції Уроку №3">
-      <change afterPath="$PROJECT_DIR$/Homework/lesson3/hw3-1/hw3-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson3/hw3-2/hw3-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson3/hw3-3/hw3-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson3/hw3-3/style3-3.css" afterDir="false" />
+    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Зробив ДЗ-3">
+      <change afterPath="$PROJECT_DIR$/Work/lesson4/Cee.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson4/block struckture/lesson4-4(2).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson4/block struckture/lesson4-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson4/figma/lesson4-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson4/figma/style4-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson4/lesson4-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson4/logoipsum/img/Hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson4/logoipsum/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson4/logoipsum/style-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson4/tmpgeo3q_78.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,30 +56,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Shevchenko Ruslan/WebstormProjects/HTML-CSS/Work/lesson4/logoipsum/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Work\lesson4\logoipsum\img" />
+      <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Work\lesson4" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +107,8 @@
       <workItem from="1766262755579" duration="45000" />
       <workItem from="1766829677910" duration="18940000" />
       <workItem from="1766925475899" duration="8719000" />
-      <workItem from="1767076835468" duration="7105000" />
+      <workItem from="1767076835468" duration="7443000" />
+      <workItem from="1767361459501" duration="12110000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав завдання, першого та другого уроку">
       <option name="closed" value="true" />
@@ -128,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766934783350</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Зробив ДЗ-3">
+      <option name="closed" value="true" />
+      <created>1767086014670</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767086014670</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +170,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Виконав завдання, першого та другого уроку" />
     <MESSAGE value="Пройшов лекції Уроку №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пройшов лекції Уроку №3" />
+    <MESSAGE value="Зробив ДЗ-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Зробив ДЗ-3" />
   </component>
 </project>
