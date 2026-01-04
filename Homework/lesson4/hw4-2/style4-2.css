@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    background: #8D8484;
+    color: #000;
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    background: #BDBDBD;
+    color: #000;
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+main{
+    display: flex;
+}
+section{
+    height: 20vh;
+    width: 72vw;
+}
+aside{
+    width: 28vw;
+    height: 30vh;
+}
+.content-1{
+    background: #776969;
+}
+.content-2{
+    background: #643030;
+}
+.content-3{
+    background: #441818;
+}
+.spam-1{
+    background: #937575;
+}
+.spam-2{
+    background: #644C4C;
+}
+.content-1,.content-2,.content-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.spam-1,.spam-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
