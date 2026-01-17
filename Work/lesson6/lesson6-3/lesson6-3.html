@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div :last-child {
+            color: coral;
+        }
+        /*div p::first-line{
+            color: crimson;
+            font-size: 20px;
+        }*/
+        div p:last-of-type{
+            color: crimson;
+        }
+        ul li:nth-last-child(2n+3) {
+            color: cyan;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+    <span>lorem.</span><span>consectetur.</span><span>lorem.</span><span>lorem.</span>
+</div>
+<ul>
+    <li>Lorem ipsum dolor.</li>
+    <li>Dolor incidunt, placeat.</li>
+    <li>Eligendi, exercitationem, pariatur.</li>
+    <li>Beatae commodi, enim.</li>
+    <li>Doloremque quia, quis!</li>
+    <li>Facilis nostrum, saepe.</li>
+    <li>A, iusto quaerat.</li>
+    <li>Dolore eius, modi!</li>
+    <li>Enim, illum, possimus!</li>
+    <li>Exercitationem officiis, reprehenderit.</li>
+    <li>Eligendi, placeat, possimus!</li>
+    <li>Aperiam quasi, ullam!</li>
+    <li>Assumenda, mollitia nulla?</li>
+    <li>Amet eum, repudiandae.</li>
+    <li>Atque, doloremque rem.</li>
+</ul>
+</body>
+</html>
