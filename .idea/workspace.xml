@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Виконав: Лекції та ДЗ-5">
-      <change afterPath="$PROJECT_DIR$/Work/lesson6/lesson6-1/lesson6-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson6/lesson6-2/lesson6-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson6/lesson6-3/lesson6-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson6/lesson6-4/before-after.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson6/lesson6-4/lesson6-4.html" afterDir="false" />
+    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Виконав: Лекції 6 завдання 4">
+      <change afterPath="$PROJECT_DIR$/Work/lesson6/lesson6-5/lesson6-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson6/lesson6-6/lesson6-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson6/lesson6-7/lesson6-7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +107,8 @@
       <workItem from="1767361459501" duration="12255000" />
       <workItem from="1767527898596" duration="15697000" />
       <workItem from="1768053910393" duration="14547000" />
-      <workItem from="1768666119056" duration="6314000" />
+      <workItem from="1768666119056" duration="6410000" />
+      <workItem from="1768752370964" duration="5376000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав завдання, першого та другого уроку">
       <option name="closed" value="true" />
@@ -175,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768069485350</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Виконав: Лекції 6 завдання 4">
+      <option name="closed" value="true" />
+      <created>1768672529882</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768672529882</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +206,7 @@
     <MESSAGE value="Виконав лекції уроку 4" />
     <MESSAGE value="Виконав ДЗ-4" />
     <MESSAGE value="Виконав: Лекції та ДЗ-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав: Лекції та ДЗ-5" />
+    <MESSAGE value="Виконав: Лекції 6 завдання 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконав: Лекції 6 завдання 4" />
   </component>
 </project>
