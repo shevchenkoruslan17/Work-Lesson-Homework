@@ -1,27 +1,25 @@
 body{
     height: 100vh;
     margin: 0;
-    background-color: darkcyan;
+    background-color: #ccbacc;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Arial, sans-serif;
 }
 .form-registration{
     width: 60vh;
     height: 40vh;
     background-color: white;
-    border-radius: 30px;
 }
 .form-registration div:nth-child(1){
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #64d3d3;
+    background-color: white;
     height: 20%;
 }
 .form-registration div:nth-child(1) h3{
-    font-size: 25px;
+    font-size: 45px;
     font-weight: 400;
 }
 .form-registration form{
@@ -42,9 +40,9 @@ input[type=text],input[type=password]{
     align-items: center;
 }
 form input[type=submit]{
-    background-color: #75c6c6;
+    background-color: #00a3ed;
     border-radius: 10px;
     border: 1px solid gray;
-    width: 80px;
-    height: 25px;
+    width: 100%;
+    height: 40px;
 }
