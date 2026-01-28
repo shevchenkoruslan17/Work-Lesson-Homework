@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Виконую лекції уроку-7">
-      <change afterPath="$PROJECT_DIR$/Work/lesson7/lesson7-3/lesson7-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson7/lesson7-4/lesson7-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson7/lesson7-5/lesson7-5(2).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson7/lesson7-5/lesson7-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson7/lesson7-6/lesson7-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson7/lesson7-6/style7-6.css" afterDir="false" />
+    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Виконую лекції уроку-7-6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/lesson7/lesson7-6/lesson7-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Work/lesson7/lesson7-6/lesson7-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/lesson7/lesson7-6/style7-6.css" beforeDir="false" afterPath="$PROJECT_DIR$/Work/lesson7/lesson7-6/style7-6.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +112,8 @@
       <workItem from="1769353615057" duration="4330000" />
       <workItem from="1769441181853" duration="3340000" />
       <workItem from="1769506038601" duration="2877000" />
-      <workItem from="1769526145928" duration="4635000" />
+      <workItem from="1769526145928" duration="4930000" />
+      <workItem from="1769612976048" duration="1024000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав завдання, першого та другого уроку">
       <option name="closed" value="true" />
@@ -238,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769509372309</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Виконую лекції уроку-7-6">
+      <option name="closed" value="true" />
+      <created>1769530981614</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1769530981614</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +274,7 @@
     <MESSAGE value="Виконую ДЗ 6-3(лишилося розмістити)" />
     <MESSAGE value="Закінчив завдання 6" />
     <MESSAGE value="Виконую лекції уроку-7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконую лекції уроку-7" />
+    <MESSAGE value="Виконую лекції уроку-7-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконую лекції уроку-7-6" />
   </component>
 </project>
