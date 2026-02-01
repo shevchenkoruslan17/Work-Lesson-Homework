@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Виконав 7-2">
-      <change afterPath="$PROJECT_DIR$/Work/lesson8/lesson8-1/lesson8-1.html" afterDir="false" />
+    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Виконую лекції 8">
+      <change afterPath="$PROJECT_DIR$/Work/lesson8/lesson8-3/lesson8-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson8/lesson8-3/style-0-480.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson8/lesson8-3/style-main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/lesson8/lesson8-2/lesson8-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Work/lesson8/lesson8-2/lesson8-2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -115,7 +118,8 @@
       <workItem from="1769612976048" duration="2710000" />
       <workItem from="1769765557532" duration="415000" />
       <workItem from="1769870360755" duration="6170000" />
-      <workItem from="1769891750177" duration="2320000" />
+      <workItem from="1769891750177" duration="2625000" />
+      <workItem from="1769934919129" duration="3790000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав завдання, першого та другого уроку">
       <option name="closed" value="true" />
@@ -285,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769893490263</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Виконую лекції 8">
+      <option name="closed" value="true" />
+      <created>1769894369955</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1769894369955</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +334,7 @@
     <MESSAGE value="Виконую ДЗ 7-2" />
     <MESSAGE value="Виконую ДЗ 7-2 Ї**** світло" />
     <MESSAGE value="Виконав 7-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав 7-2" />
+    <MESSAGE value="Виконую лекції 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконую лекції 8" />
   </component>
 </project>
