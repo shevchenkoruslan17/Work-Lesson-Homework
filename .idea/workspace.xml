@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Виконав лекції 8">
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/Rest.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/hw8-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/img/Img-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/img/Img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/img/Img-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/img/Img-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/img/Img-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/img/Img-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/style-mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/style-tablet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/style.css" afterDir="false" />
+    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Виконую ДЗ 8-1">
+      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-2/Reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-2/hw8-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-2/img/img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-2/img/img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-2/img/img-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-2/img/img-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-2/style-mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-2/style-tablet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/lesson8/hw8-1/style-mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/style-mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/lesson8/hw8-1/style-tablet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson8/hw8-1/style-tablet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "disable.download.node.interpreter.editor.notification": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Shevchenko Ruslan/WebstormProjects/HTML-CSS/Homework/lesson8/hw8-1/img",
+    "last_opened_file_path": "C:/Users/Shevchenko Ruslan/WebstormProjects/HTML-CSS/Homework/lesson8/hw8-2/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -84,11 +84,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson8\hw8-2\img" />
       <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson8\hw8-1\img" />
       <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson7\hw7-2\img" />
       <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson7\hw7-1\img" />
       <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson6\hw6-1" />
-      <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson5\hw5-2\img" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -129,7 +129,9 @@
       <workItem from="1769934919129" duration="4088000" />
       <workItem from="1769955599541" duration="4269000" />
       <workItem from="1770476645823" duration="1198000" />
-      <workItem from="1770478318624" duration="2908000" />
+      <workItem from="1770478318624" duration="2959000" />
+      <workItem from="1770502349594" duration="4000" />
+      <workItem from="1770563050416" duration="2949000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав завдання, першого та другого уроку">
       <option name="closed" value="true" />
@@ -323,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769959854300</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Виконую ДЗ 8-1">
+      <option name="closed" value="true" />
+      <created>1770481265292</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1770481265292</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,6 +372,7 @@
     <MESSAGE value="Виконав 7-2" />
     <MESSAGE value="Виконую лекції 8" />
     <MESSAGE value="Виконав лекції 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав лекції 8" />
+    <MESSAGE value="Виконую ДЗ 8-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконую ДЗ 8-1" />
   </component>
 </project>
