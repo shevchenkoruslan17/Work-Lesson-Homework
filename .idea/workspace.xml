@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Виконав ДЗ 8-2">
-      <change afterPath="$PROJECT_DIR$/Work/lesson9/lesson9-1/lesson9-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson9/lesson9-2/lesson9-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/lesson9/lesson9-3/lesson9-3.html" afterDir="false" />
+    <list default="true" id="c2462c76-48db-4627-acb3-13a030735f42" name="Changes" comment="Виконав лекції 9-1 по 9-3">
+      <change afterPath="$PROJECT_DIR$/Work/lesson9/lesson9-4/lesson9-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson9/lesson9-5Bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson9/lesson9-5Bootstrap/pdf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson9/lesson9-5Bootstrap/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson9/lesson9-6bootstrap-img/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/lesson9/lesson9-6bootstrap-img/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -49,38 +52,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shevchenko Ruslan/WebstormProjects/HTML-CSS/Homework/lesson8/hw8-2/img&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Shevchenko Ruslan/WebstormProjects/HTML-CSS/Work/lesson9/lesson9-5Bootstrap",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Work\lesson9\lesson9-5Bootstrap" />
       <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson8\hw8-2\img" />
       <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson8\hw8-1\img" />
       <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson7\hw7-2\img" />
       <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson7\hw7-1\img" />
-      <recent name="C:\Users\Shevchenko Ruslan\WebstormProjects\HTML-CSS\Homework\lesson6\hw6-1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -124,7 +127,8 @@
       <workItem from="1770478318624" duration="2959000" />
       <workItem from="1770502349594" duration="4000" />
       <workItem from="1770563050416" duration="2991000" />
-      <workItem from="1771078980214" duration="2929000" />
+      <workItem from="1771078980214" duration="3198000" />
+      <workItem from="1771142189348" duration="5030000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав завдання, першого та другого уроку">
       <option name="closed" value="true" />
@@ -334,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770566043894</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Виконав лекції 9-1 по 9-3">
+      <option name="closed" value="true" />
+      <created>1771082271263</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1771082271263</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,6 +387,7 @@
     <MESSAGE value="Виконав лекції 8" />
     <MESSAGE value="Виконую ДЗ 8-1" />
     <MESSAGE value="Виконав ДЗ 8-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав ДЗ 8-2" />
+    <MESSAGE value="Виконав лекції 9-1 по 9-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконав лекції 9-1 по 9-3" />
   </component>
 </project>
